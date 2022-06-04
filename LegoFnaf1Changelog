@@ -1,9 +1,10 @@
-Version 1.2
+Version 1.3
 
 Changes :
-Fixed "Cheat Engine" bug appearing for people with lower end computers
-Golden freddy still appearing during the powerout
-Fixed Blank Changelog appearing on menu for people with lower end internet
+Added Tele-Freddy leaving static
+Fixed Tele-Freddy jumpscare bug
+Fixed Stud Deletion Issue
+Made UCN Chica's audio que more apparent
 
 If you find any bugs, please join the Lego FNaF Discord server through the GameJolt page or this link and send your report in #bugs.
 https://discord.gg/xsbfeE7pMD
